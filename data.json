@@ -72,7 +72,7 @@
   },
   "projects": [
     {
-      "title": "Editor Teks Kaya untuk React",
+      "title": "Rich Editor WYSIWYG untuk React",
       "description": "Sebuah editor WYSIWYG berbasis React dengan dukungan teks terformat, upload gambar, dan hyperlink. Menggunakan Tiptap untuk pengalaman menulis yang fleksibel dan modern.",
       "image": "/images/rich editor.png",
       "tech_stack": [
@@ -136,7 +136,7 @@
         "url": "https://www.instagram.com/psikopedd/"
       },
       {
-        "platform": "X (Twitter)",
+        "platform": "Twitter",
         "url": "https://x.com/Hisean5"
       }
     ]

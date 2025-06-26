@@ -1,0 +1,144 @@
+{
+  "template_mail": "mailto:hallo@fadh.my.id.com?subject=Project%20Collaboration%20Invitation%20%E2%80%93%20[Project%20Name%20or%20Type]&body=Hi%20Fadhly%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0AMy%20name%20is%20[Your%20Name]%20from%20[Your%20Company%20or%20Community]%2C%20and%20I'm%20currently%20initiating%20a%20[project%20type]%20project%20scheduled%20to%20start%20soon.%20Given%20your%20expertise%20and%20track%20record%20in%20[relevant%20field]%2C%20I%20would%20be%20thrilled%20to%20collaborate%20with%20you%20on%20this%20project.%0A%0A==%20Project%20Details%20==%0A-%20Project%20Name%3A%20[Brief%20Name%20or%20Title]%0A-%20Type%3A%20[Website%2C%20Mobile%20App%2C%20API%2C%20etc.]%0A-%20Technology%3A%20[React%2C%20Laravel%2C%20Next.js%2C%20PostgreSQL%2C%20etc.]%0A-%20Short%20Description%3A%20[Summarize%20the%20main%20goal]%0A%0A==%20Additional%20Info%20==%0A-%20Estimated%20Duration%3A%20[e.g.%202%20months%2C%20July%E2%80%93August%202025]%0A-%20Start%20Date%3A%20[e.g.%20Early%20July%202025]%0A-%20Working%20Hours%20Per%20Week%3A%20[e.g.%2010%E2%80%9315%20hrs]%0A-%20Collaboration%20Style%3A%20[Remote%2FFlexible%2FKanban-based]%0A-%20Compensation%3A%20[e.g.%20hourly%20rate%2C%20profit%20sharing%2C%20etc.]%0A%0AIf%20you're%20interested%2C%20I'd%20love%20to%20discuss%20further%20via%20a%20brief%20call%20on%20[Zoom%2C%20WhatsApp%2C%20Telegram]%20at%20your%20convenience.%20Let%20me%20know%20your%20availability.%0A%0AThank%20you%20for%20your%20time%20and%20consideration.%0A%0ABest%20regards%2C%0A[Your%20Full%20Name]%0A[Your%20WhatsApp%2FLinkedIn%2FEmail]",
+  "home": {
+    "headline": "Hi, I'm Fadhly",
+    "headline_variants": [
+      "Full-Stack Developer",
+      "Data Enthusiast",
+      "Computer Vision Engineer"
+    ],
+    "subheadline": "A professional full-stack developer passionate about building data-driven and AI-powered solutions. Experienced in Laravel, React, and Python to develop efficient and accessible systems.",
+    "profile_image": "/images/aku.png",
+    "cta_buttons": [
+      {
+        "label": "View Portfolio",
+        "link": "#projects"
+      },
+      {
+        "label": "Contact Me",
+        "link": "#contact"
+      }
+    ]
+  },
+  "about": {
+    "bio": "I am a Full Stack Developer with a deep interest in modern digital solutions, data science, and computer vision. My focus is on creating scalable and efficient applications using clean code and human-centered design principles.",
+    "timeline": [
+      {
+        "year": "2023",
+        "event": "Began exploring Data Science and Machine Learning as the foundation for academic research."
+      },
+      {
+        "year": "2024",
+        "event": "Built several projects using React and Laravel, including data prediction systems and interactive dashboards."
+      },
+      {
+        "year": "2025",
+        "event": "Completed a thesis titled 'Stunting Prediction Modeling with Random Forest Approach: A Case Study in Central Java Province.'"
+      }
+    ],
+    "skills": {
+      "Frontend": [
+        "React.js",
+        "Tailwind CSS",
+        "HTML5 & CSS3",
+        "JavaScript (ES6+)"
+      ],
+      "Backend": [
+        "Laravel",
+        "Node.js",
+        "Filament",
+        "Python",
+        "CodeIgniter",
+        "C, C++, C#",
+        "PHP",
+        "MySQL",
+        "REST API"
+      ],
+      "Data & Machine Learning": [
+        "Basic Python",
+        "Data Modeling",
+        "Data Preprocessing",
+        "Random Forest",
+        "OpenCV",
+        "YOLO"
+      ],
+      "Tools & Workflow": [
+        "Git & GitHub",
+        "Postman",
+        "Visual Studio Code",
+        "Linux Terminal"
+      ]
+    }
+  },
+  "projects": [
+    {
+      "title": "Rich Text Editor WYSIWYG for React",
+      "description": "A WYSIWYG editor built with React, supporting formatted text, image upload, and hyperlinks. Uses Tiptap for a flexible and modern writing experience.",
+      "image": "/images/rich editor.png",
+      "tech_stack": [
+        "React",
+        "Typescript",
+        "Tailwind CSS"
+      ],
+      "link": "https://github.com/fadhly-git/tiptap_editor_WYSIWYG"
+    },
+    {
+      "title": "Doctor Appointment Web App",
+      "description": "A web platform that helps patients find and book appointments with doctors. Built with Laravel for the backend and Blade template for the frontend.",
+      "image": "/images/blade-wd.png",
+      "tech_stack": [
+        "Blade",
+        "Laravel",
+        "Bootstrap",
+        "MySQL"
+      ],
+      "link": "https://github.com/fadhly-git/blade-wd-aps"
+    },
+    {
+      "title": "Hospital Profile Website",
+      "description": "An informative website for PKU Muhammadiyah Boja Hospital, showcasing services, doctor profiles, and contact pages. Developed using Laravel and a modern React interface.",
+      "image": "/images/web-rs.png",
+      "tech_stack": [
+        "Laravel",
+        "React Ts",
+        "Tailwind CSS",
+        "PHP",
+        "MySQL",
+        "Filament"
+      ],
+      "link": "https://github.com/fadhly-git/web-rs"
+    },
+    {
+      "title": "License Plate Detection System",
+      "description": "A Python-based application that detects and recognizes vehicle license plates using YOLO and OpenCV. Suitable for integration with security and parking systems.",
+      "image": "/images/plate-deteksion.png",
+      "tech_stack": [
+        "YOLO",
+        "Torch",
+        "OpenCV"
+      ],
+      "link": ""
+    }
+  ],
+  "contact": {
+    "email": "hallo@fadh.my.id",
+    "social_links": [
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/fadhly-git"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/in/fadhly-rozaq-9ba123246/"
+      },
+      {
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/psikopedd/"
+      },
+      {
+        "platform": "Twitter",
+        "url": "https://x.com/Hisean5"
+      }
+    ]
+  }
+}
